@@ -10,8 +10,8 @@
 
 Что вам нужно для запуска проекта:
 
-- Python версии 3.8 и выше
-- Библиотеки Python: aiogram, psycopg2
+- Python версии 3.11 (или выше)
+- Библиотеки Python: aiogram, psycopg2-binary
 - PostgreSQL для хранения данных пользователей
 
 ### Установка
